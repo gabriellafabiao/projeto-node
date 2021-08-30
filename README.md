@@ -18,7 +18,7 @@ Iniciar o arquivo de configuração package.json
    npm set strict-ssl false 
    npm config set resgistry https://registry.npmjs.org/
   ### antes de enviar para o gitHub(basta 1 vez)
-   git config --global http.sslVerify false 
+    git config --global http.sslVerify false 
 
 
 ### Instalação de dependencias
@@ -42,3 +42,6 @@ No package.json
 "scripts": { "morango": "nodemon server.js" }
 
 No prompt vc executa: npm run morango
+
+### Token de authenticação 
+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
